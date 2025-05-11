@@ -17,4 +17,4 @@ Look Book (visual presentation of assets)
 
 Thesis documentation in Bulgarian
 
-📌 Tools Used: Adobe Photoshop, Inkscape, Canva
+📌 Tools Used: Adobe Photoshop, Inkscape, Canva, BeFunky
